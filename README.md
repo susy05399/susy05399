@@ -1,4 +1,4 @@
-#¡Hola soy Susana!. Un placer conocerte. 👋
+##¡Hola soy Susana!. Un placer conocerte. 👋
 
 <!--
 **susy05399/susy05399** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
