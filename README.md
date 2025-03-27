@@ -36,7 +36,7 @@ Apasionada de la tecnología, disfrutando de una transición laboral a QA Engine
 
 🔹 **En constante aprendizaje:** Automatización de pruebas, metodologías ágiles y de SQL
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
