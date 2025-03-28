@@ -2,6 +2,8 @@
 
 # <h4 align="center"> _**"Quality Assurance Tester"**_ </h4>
 
+![Baner de presentación](https://media.licdn.com/dms/image/v2/D5616AQGegIbxiFdP4A/profile-displaybackgroundimage-shrink_350_1400/B56ZXav1iaGcAk-/0/1743131729339?e=1748476800&v=beta&t=yBJwwQZxW5eexfwV5RX1gebWcwi1jLJujMh31qmFYmA)
+
 # <h2 align="center"> _**SOBRE MÍ**_ </h2>
 
 Apasionada de la tecnología, disfrutando de una transición laboral a QA Enginer enfocado al Testing Manual. Soy una **QA Engineer** apasionada por la tecnología y la calidad del software. Me especializo en **pruebas manuales y automatizadas**, trabajando con herramientas como **Selenium, Postman, Python y SQL**. Me encanta descubrir bugs, mejorar procesos y garantizar que cada aplicación funcione sin problemas.
