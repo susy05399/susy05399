@@ -2,7 +2,7 @@
 
 # <h4 align="center"> _**"Quality Assurance Tester"**_ </h4>
 
-![Baner de presentación](https://media.licdn.com/dms/image/v2/D5616AQGegIbxiFdP4A/profile-displaybackgroundimage-shrink_350_1400/B56ZXav1iaGcAk-/0/1743131729339?e=1748476800&v=beta&t=yBJwwQZxW5eexfwV5RX1gebWcwi1jLJujMh31qmFYmA)
+![Baner de presentación]([https://media.licdn.com/dms/image/v2/D5616AQGegIbxiFdP4A/profile-displaybackgroundimage-shrink_350_1400/B56ZXav1iaGcAk-/0/1743131729339?e=1748476800&v=beta&t=yBJwwQZxW5eexfwV5RX1gebWcwi1jLJujMh31qmFYmA](https://drive.google.com/file/d/1ilW7kHWkww1WcYePRiB-Po6b7UyZLzYZ/view?usp=sharing))
 
 # <h2 align="center"> _**SOBRE MÍ**_ </h2>
 
